@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SHADE</string>
+    <string name="icon_for_tracking">icon for tracking</string>
+    <string name="track_desc">Worried about misplacing your phone or (worse yet) having it stolen? Ease your fears and set up a tracking system before your worst case scenario strikes. Lost mobile will appear on live maps within the app...</string>
+    <string name="back">back</string>
+    <string name="next">next</string>
+    <string name="tracker">TRACKER</string>
+</resources>
